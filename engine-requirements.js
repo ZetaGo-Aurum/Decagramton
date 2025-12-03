@@ -48,7 +48,7 @@ if (major < 20) {
       console.log(colored);
     });
 
-    console.log("\n" + chalk.redBright.bold("❌ ERROR: Node.js Version Not Supported!\n"));
+    console.log("\n" + chalk.redBright("❌ ERROR: Node.js Version Not Supported!\n"));
     console.log(chalk.gray("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
 
     console.log(
