@@ -88,4 +88,4 @@
       clearInterval(glitchInterval);
       process.exit(1);
     }, 9000);
-  })();
+  }();
