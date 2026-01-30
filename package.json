@@ -1,24 +1,30 @@
 {
     "name": "@zetagoaurum-socket/decagramton",
-    "version": "3.2.7",
-    "description": "Whatsapp baileys coded by Fallzx-Coderid.",
+    "version": "3.3.0",
+    "contributors": [
+        "Adhiraj Singh <adiwajshing@gmail.com> (Original Creator)",
+        "ZetaGo-Aurum (Current Maintainer)",
+        "FallZx Infinity (Base)",
+        "IbraDecode"
+    ],
+    "description": "DECAGRAMTON - The Ten-Pointed Star of Speed (Enterprise WhatsApp Series)",
     "keywords": [
         "whatsapp",
-        "lily-baileys",
+        "decagramton",
         "baileys",
         "whatsapp-web",
         "whatsapp-chat",
-        "fallzx",
+        "zetago-aurum",
         "wabot",
         "botwa",
-        "stvnnvs"
+        "socket"
     ],
-    "homepage": "https://github.com/FallEzz/baileys-corp.git",
+    "homepage": "https://github.com/ZetaGo-Aurum/Decagramton",
     "repository": {
-        "url": "https://github.com/FallEzz/baileys-corp.git"
+        "url": "https://github.com/ZetaGo-Aurum/Decagramton.git"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "ZetaGo-Aurum",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [

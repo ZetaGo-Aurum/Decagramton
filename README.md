@@ -2,112 +2,74 @@
 
 <div align="center">
 
-![ZetaGo-Aurum](https://img.shields.io/badge/ZetaGo--Aurum--Decagramton-v3.2.7-gold?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Version](https://img.shields.io/badge/Version-3.2.7-blue?style=for-the-badge)
+![ZetaGo-Aurum](https://img.shields.io/badge/ZetaGo--Aurum--Decagramton-v3.3.0-gold?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Version](https://img.shields.io/badge/Version-3.3.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **The Ten-Pointed Star of Speed**
-*Premium. Secure. Enterprise.*
+*Lightweight. Powerful. Perfection.*
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Safety](#safety)
+[Installation](#installation) • [The 10 Features](#the-10-features) • [Contributors](#contributors)
 
 </div>
 
-/*
-  ©2025 FallZx Infinity. All Rights Reserved.
-
-  Type: ZetaGo Aurum Decagramton WhatsApp Bot
-  Creator: FallZx Infinity
-  YouTube: fallzx-features
-
-  PROHIBITED:
-  - Copying any part of this code without explicit permission.
-  - Selling, redistributing, or modifying the code without the author's approval.
-  - Claiming this project as your own.
-
-  WARNING:
-  Any act of plagiarism, data theft, or illegal redistribution of this project
-  will be subject to legal action under applicable intellectual property laws.
-
-  This project is NOT open-source. Unauthorized use of the code is strictly forbidden.
-
-  For collaboration or usage permissions, please contact via YouTube: fallzx-features
-*/
-
-
 ---
 
-### 🚀 Key Features & Benefits
-
-- 🔐 Flexible Pairing Options
-Supports both automatic and custom pairing methods for seamless connectivity.
-
-- 🛠️ Improved Stability
-Resolves previous pairing issues that caused connection failures or unexpected disconnections.
-
-- 💬 Rich Interactive Messaging
-Enables interactive messages, action buttons, and dynamic menus for engaging user experiences.
-
-- 🔄 Smart Session Management
-Automatically manages sessions efficiently to ensure consistent and reliable performance.
-
-- 📱 Multi-Device Compatibility
-Fully compatible with the latest WhatsApp multi-device capabilities.
-
-- ⚙️ Lightweight & Easy Integration
-Designed to be lightweight, stable, and easy to embed into a wide range of systems.
-
-- 🤖 Ideal for Bots & Automation
-Perfect for building chatbots, customer service automation, and full-scale communication solutions.
-
-- 📘 Developer-Friendly Resources
-Comes with comprehensive documentation and ready-to-use code examples to accelerate development.
-
----
-
-### 🚀 Getting Started
-
-Begin by installing the library:
+## 🚀 Installation
 
 ```bash
 npm install @zetagoaurum-socket/decagramton
 ```
 
-Then follow the provided configuration guide. You can also utilize the ready-made example codes to understand how the features work. Use session storage and interactive messaging features to build complete, stable solutions tailored to your business or project needs.
+---
+
+## 🌟 The 10 Features of Decagramton
+
+Decagramton is built on the philosophy of 10 points of perfection, ensuring a lightweight yet powerful WhatsApp socket experience.
+
+### 1. ⚡ Lightweight Core
+Optimized codebase stripped of unnecessary bloatware, ensuring maximum performance and low memory footprint.
+
+### 2. 🛡️ Anti-Kill Protection
+Robust error handling system that prevents the process from crashing due to unhandled exceptions or rejections.
+
+### 3. ✅ Meta Verified Mimicry
+Automatically injects "Enterprise" and "Verified" attributes into message payloads to mimic official business accounts and reduce ban risks.
+
+### 4. 🚀 Fast Connect
+Enhanced connection logic for rapid authentication and socket establishment.
+
+### 5. 📱 Multi-Device Support
+Full compatibility with the latest WhatsApp Multi-Device (MD) architecture.
+
+### 6. 🔐 Custom Pairing
+Supports both automatic QR scanning and custom pairing code methods for flexible login.
+
+### 7. 💬 Interactive Messages
+Native support for interactive buttons, list messages, and dynamic menus.
+
+### 8. 🔄 Stable Sessions
+Advanced session management to ensure long-term connectivity without frequent logouts.
+
+### 9. 🔒 Secure Encryption
+Implements standard Signal protocol encryption for secure end-to-end communication.
+
+### 10. 🎨 Stylish TUI
+Beautiful text-based user interface with colored logs and the signature Decagramton banner.
 
 ---
 
-### Why Choose whatsapp baileys?
+## 👥 Contributors
 
-Start by installing the library using your preferred package manager. Follow the step-by-step configuration guide to set everything up quickly. Explore the included example codes to understand key features in action. Leverage session management and interactive messaging capabilities to build robust, scalable solutions tailored to your project's or business's specific needs.
+This project is the result of the hard work of many developers. We acknowledge and thank them for their contributions:
 
----
-
-## ✨ Fitur Unggulan
-
-• ✅ Supports custom pairing codes that are stable and secure
-Mendukung kode pairing kustom yang stabil dan aman untuk koneksi WhatsApp.
-
-• 🛠️ Fixes previous issues related to pairing and authentication
-Telah diperbaiki dari berbagai masalah sebelumnya terkait pairing dan otentikasi.
-
-• 💬 Features interactive messages and action buttons for dynamic menu creation
-Menyediakan fitur pesan interaktif dan tombol aksi untuk membuat menu dinamis dengan mudah.
-
-• 🔄 Automatic and efficient session management for long-term stability
-Manajemen sesi otomatis dan efisien untuk kestabilan penggunaan jangka panjang.
-
-• 📱 Compatible with the latest multi-device features from WhatsApp
-Kompatibel dengan fitur multi-perangkat terbaru dari WhatsApp.
-
-• ⚙️ Easy to integrate and customize based on your needs
-Mudah diintegrasikan dan dikustomisasi sesuai kebutuhan pengembanganmu.
-
-• 🤖 Perfect for developing bots, customer service automation, and other communication applications
-Cocok untuk membuat bot, otomatisasi layanan pelanggan, atau aplikasi komunikasi lainnya.
+-   **Adhiraj Singh** (Original Creator of Baileys)
+-   **ZetaGo-Aurum** (Current Maintainer & Decagramton Developer)
+-   **FallZx Infinity** (Base Repository)
+-   **IbraDecode** (Contributor)
 
 ---
 
-📚 For full documentation, installation instructions, and usage examples, please refer to the official GitHub repository and join the community discussions. This project is actively maintained and continuously improved to support developers building modern WhatsApp automation solutions.
-
-🙏 Thank you for choosing WhatsApp Baileys as your trusted tool for WhatsApp automation. We appreciate your support!
+<div align="center">
+    © 2026 ZetaGo-Aurum. All Rights Reserved.
+</div>
