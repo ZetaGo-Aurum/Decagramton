@@ -63,10 +63,48 @@ Beautiful text-based user interface with colored logs and the signature Decagram
 
 This project is the result of the hard work of many developers. We acknowledge and thank them for their contributions:
 
--   **Adhiraj Singh** (Original Creator of Baileys)
--   **ZetaGo-Aurum** (Current Maintainer & Decagramton Developer)
--   **FallZx Infinity** (Base Repository)
--   **IbraDecode** (Contributor)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/adiwajshing">
+          <img src="https://github.com/adiwajshing.png" width="100px;" alt=""/>
+          <br />
+          <sub><b>Adhiraj Singh</b></sub>
+        </a>
+        <br />
+        <i>Original Creator</i>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ZetaGo-Aurum">
+          <img src="https://github.com/ZetaGo-Aurum.png" width="100px;" alt=""/>
+          <br />
+          <sub><b>ZetaGo-Aurum</b></sub>
+        </a>
+        <br />
+        <i>Current Maintainer</i>
+      </td>
+      <td align="center">
+        <a href="https://github.com/FallEzz">
+          <img src="https://github.com/FallEzz.png" width="100px;" alt=""/>
+          <br />
+          <sub><b>FallZx Infinity</b></sub>
+        </a>
+        <br />
+        <i>Base Repository</i>
+      </td>
+      <td align="center">
+        <a href="https://github.com/IbraDecode">
+          <img src="https://github.com/IbraDecode.png" width="100px;" alt=""/>
+          <br />
+          <sub><b>IbraDecode</b></sub>
+        </a>
+        <br />
+        <i>Contributor</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
