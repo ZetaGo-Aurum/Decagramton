@@ -1,13 +1,22 @@
-# WhatsApp Baileys
+# <div align="center">ZetaGo-Aurum Decagramton</div>
 
-<p align="center">
-  <img src="https://files.catbox.moe/1jr5sg.jpg" alt="Thumbnail" />
-</p>
+<div align="center">
+
+![ZetaGo-Aurum](https://img.shields.io/badge/ZetaGo--Aurum--Decagramton-v3.2.7-gold?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Version](https://img.shields.io/badge/Version-3.2.7-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+**The Ten-Pointed Star of Speed**
+*Premium. Secure. Enterprise.*
+
+[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Safety](#safety)
+
+</div>
 
 /*
   ©2025 FallZx Infinity. All Rights Reserved.
 
-  Type: Lilys-Baileys WhatsApp Bot
+  Type: ZetaGo Aurum Decagramton WhatsApp Bot
   Creator: FallZx Infinity
   YouTube: fallzx-features
 
@@ -58,7 +67,13 @@ Comes with comprehensive documentation and ready-to-use code examples to acceler
 
 ### 🚀 Getting Started
 
-Begin by installing the library via your preferred package manager, then follow the provided configuration guide. You can also utilize the ready-made example codes to understand how the features work. Use session storage and interactive messaging features to build complete, stable solutions tailored to your business or project needs.
+Begin by installing the library:
+
+```bash
+npm install @zetagoaurum-socket/decagramton
+```
+
+Then follow the provided configuration guide. You can also utilize the ready-made example codes to understand how the features work. Use session storage and interactive messaging features to build complete, stable solutions tailored to your business or project needs.
 
 ---
 
