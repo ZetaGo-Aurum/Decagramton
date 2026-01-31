@@ -25,10 +25,10 @@ npm install @zetagoaurum-socket/decagramton
 
 ---
 
-## 🌟 The 10 Stars / 10 Bintang Kesempurnaan
+## 🌟 The 10 Stars / 10 Sudut Kesempurnaan
 
 Decagramton is built on the philosophy of **10 points of perfection**.
-*Decagramton dibangun berdasarkan filosofi 10 titik kesempurnaan.*
+*Decagramton dibangun berdasarkan filosofi 10 sudut kesempurnaan.*
 
 | # | Feature | Description |
 |---|---------|-------------|
@@ -47,7 +47,7 @@ Decagramton is built on the philosophy of **10 points of perfection**.
 
 ## ⚙️ System Features
 
-> *Fitur-fitur sistem yang memperkuat 10 Bintang di atas.*
+> *Fitur-fitur sistem yang memperkuat 10 Sudut di atas.*
 
 ### 🔄 Auto-Update
 Automatically detects and installs the latest NPM version on start-up. Your bot evolves without manual intervention.
