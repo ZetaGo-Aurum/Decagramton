@@ -4,8 +4,8 @@
 
 <img src="./decagramton_banner.jpg" width="100%" alt="Decagramton Banner">
 
-![ZetaGo-Aurum](https://img.shields.io/badge/ZetaGo--Aurum--Decagramton-v3.5.0-gold?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Version](https://img.shields.io/badge/Version-3.5.0-blue?style=for-the-badge)
+![ZetaGo-Aurum](https://img.shields.io/badge/ZetaGo--Aurum--Decagramton-v3.5.2-gold?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Version](https://img.shields.io/badge/Version-3.5.2-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **The Ten-Pointed Star of Speed**
