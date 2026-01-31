@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./media/decagramton_banner.jpg" width="100%" alt="Decagramton Banner">
+<img src="./decagramton_banner.jpg" width="100%" alt="Decagramton Banner">
 
 ![ZetaGo-Aurum](https://img.shields.io/badge/ZetaGo--Aurum--Decagramton-v3.5.0-gold?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Version](https://img.shields.io/badge/Version-3.5.0-blue?style=for-the-badge)
