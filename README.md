@@ -70,6 +70,10 @@ Implements standard Signal protocol encryption for secure end-to-end communicati
 Beautiful text-based user interface with colored logs and the signature Decagramton banner.
 *(Antarmuka pengguna berbasis teks yang indah dengan log berwarna dan banner khas Decagramton.)*
 
+### 11. 🔄 Auto-Update Star / Bintang Pembaruan Otomatis
+Automatically detects and installs the latest NPM version on start-up.
+*(Otomatis mendeteksi dan menginstal versi terbaru NPM saat start-up.)*
+
 ---
 
 ## 👥 Contributors
